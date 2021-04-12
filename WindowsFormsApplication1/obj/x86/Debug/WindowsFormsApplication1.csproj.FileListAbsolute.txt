@@ -1,0 +1,9 @@
+D:\Projects\Itek-18_Filonov_lab_2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Projects\Itek-18_Filonov_lab_2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Projects\Itek-18_Filonov_lab_2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Projects\Itek-18_Filonov_lab_2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Projects\Itek-18_Filonov_lab_2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Projects\Itek-18_Filonov_lab_2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Projects\Itek-18_Filonov_lab_2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Projects\Itek-18_Filonov_lab_2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Projects\Itek-18_Filonov_lab_2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
